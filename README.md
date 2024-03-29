@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World!👋 </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1500&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
 ###
 
