@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello, World!👋 </h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Gonçalo Veiga and I'm a Software Engineer from Portugal.</p>
+<p align="left">My name is Gonçalo Veiga and I'm a Software Engineer from Portugal 🇵🇹.</p>
 
 ###
 
