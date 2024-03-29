@@ -1,17 +1,18 @@
+<p align="right">
+  <img align="right" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjNXZqeHExbzR5NXM5aDY1OTh5aTRmbXRqN2YyenNrMW1tYjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1500&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-###
 
-<img align="right" height="215" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjNXZqeHExbzR5NXM5aDY1OTh5aTRmbXRqN2YyenNrMW1tYjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
-###
 
 <p align="left">My name is Gonçalo Veiga and I'm a Software Engineer from Portugal 🇵🇹.</p>
 <p align="left">Enthusiastic about exploring new technologies and overcoming challenges.</p>
 
 ###
 
-<h2 align="left">My Tech Stack</h2>
+<h1 align="left">My Tech Stack</h1>
 
 ###
 
@@ -86,3 +87,9 @@
 </div>
 
 ###
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/gonçalo-veiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalo-veiga" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gveiga256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gveiga256" height="30" width="40" /></a>
+</p>
