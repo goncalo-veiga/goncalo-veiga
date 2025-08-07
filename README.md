@@ -10,6 +10,8 @@
 <p align="left">My name is Gonçalo Veiga and I'm a Software Engineer from Portugal 🇵🇹.</p>
 <p align="left">Enthusiastic about exploring new technologies and overcoming challenges.</p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-veiga&size_weight=0.5&count_weight=0.5&layout=compact&theme=catppuccin_mocha)
+
 ###
 
 <h1 align="left">My Tech Stack</h1>
