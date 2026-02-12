@@ -1,3 +1,7 @@
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
+</div>
+
 <p align="right">
   <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjNXZqeHExbzR5NXM5aDY1OTh5aTRmbXRqN2YyenNrMW1tYjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
@@ -10,7 +14,7 @@
 <p align="left">My name is Gonçalo Veiga and I'm a Software Engineer from Portugal 🇵🇹.</p>
 <p align="left">Enthusiastic about exploring new technologies and overcoming challenges.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo-veiga&size_weight=0.4&count_weight=0.6&layout=compact&theme=catppuccin_mocha&langs_count=14)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=goncalo-veiga&size_weight=0.4&count_weight=0.6&layout=compact&theme=catppuccin_mocha&langs_count=14)
 
 
 ###
@@ -95,3 +99,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/gonçalo-veiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonçalo-veiga" height="30" width="40" /></a>
 </p>
+
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight" />
+</div>
