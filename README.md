@@ -6,8 +6,7 @@
   <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBjNXZqeHExbzR5NXM5aDY1OTh5aTRmbXRqN2YyenNrMW1tYjhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=45&pause=1500&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=33&pause=1500&color=94E2D5&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
 
 
