@@ -49,6 +49,7 @@
   <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" height="40" alt="plotly logo"  /></a>
   <img width="12" />
   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" height="40" alt="r logo"  /></a>
+  <img width="12" />
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white" height="40" alt="latex logo"  /></a>
 </div>
 
