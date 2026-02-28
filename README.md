@@ -49,13 +49,12 @@
   <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" height="40" alt="plotly logo"  /></a>
   <img width="12" />
   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" height="40" alt="r logo"  /></a>
-  <img width="12" />
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white" height="40" alt="latex logo"  /></a>
 </div>
 
 ###
 
-<h2 align="left">☁️ Cloud, DevOps & Infrastructure</h2>
+<h2 align="left">☁️ Cloud, DevOps, DBs & Infrastructure</h2>
 
 ###
 
@@ -79,6 +78,16 @@
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="40" alt="ubuntu logo"  /></a>
   <img width="12" />
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell-{color}?style=flat&logo=gnu-bash&logoColor=white" height="40" alt="shell logo"  /></a>
+  <img width="12" />
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" height="40" alt="vercel logo"  /></a>
+  <img width="12" />
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/supabase-%233FCF8E.svg?style=flat&logo=supabase&logoColor=white" height="40" alt="supabase logo"  /></a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"  /></a>
+  <img width="12" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" height="40" alt="mysql logo"  /></a>
+  <img width="12" />
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" height="40" alt="microsoft sql server logo"  /></a>
 </div>
 
 ###
@@ -107,20 +116,6 @@
 
 ###
 
-<h2 align="left">🗄️ Databases</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"  /></a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" height="40" alt="mysql logo"  /></a>
-  <img width="12" />
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" height="40" alt="microsoft sql server logo"  /></a>
-</div>
-
-###
-
 <h2 align="left">🎨 Front-end, UI/UX & Game Dev</h2>
 
 ###
@@ -132,9 +127,15 @@
   <img width="12" />
   <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" height="40" alt="vuejs logo"  /></a>
   <img width="12" />
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" height="40" alt="nextjs logo"  /></a>
+  <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" height="40" alt="html5 logo"  /></a>
   <img width="12" />
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" height="40" alt="css3 logo"  /></a>
+  <img width="12" />
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" height="40" alt="tailwindcss logo"  /></a>
+  <img width="12" />
+  <a href="https://ui.shadcn.com/" target="_blank"><img src="https://img.shields.io/badge/shadcn-%23000000.svg?style=flat&logo=shadcnui&logoColor=white" height="40" alt="shadcn logo"  /></a>
   <img width="12" />
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" height="40" alt="nodejs logo"  /></a>
   <img width="12" />
@@ -169,6 +170,8 @@
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" height="40" alt="github logo"  /></a>
   <img width="12" />
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" height="40" alt="gitlab logo"  /></a>
+  <img width="12" />
+  <a href="https://claude.ai/code" target="_blank"><img src="https://img.shields.io/badge/claude%20code--%23F7931E?style=flat&logo=claude&logoColor=white" height="40" alt="claude code logo"  /></a>
   <img width="12" />
   <a href="https://prettier.io/" target="_blank"><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black" height="40" alt="prettier logo"  /></a>
   <img width="12" />
